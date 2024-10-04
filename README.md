@@ -3,4 +3,5 @@ Principal ID Grabber for Splatoon on Cemu.
 
 This tool allows you to see the Principal ID's of players in your Splatoon Lobby, which can be used for a cheater report on Pretendo Network.
 
-![image](https://github.com/user-attachments/assets/a99e4091-3117-48b5-8fe0-caab48786b37)
+![image](https://github.com/user-attachments/assets/cfcab8cc-bbbf-447e-90e3-4fefd1bd9c47)
+
