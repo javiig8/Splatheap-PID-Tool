@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipalID_Grabber", "PrincipalID_Grabber\PrincipalID_Grabber.csproj", "{9FC4D4FE-D4E1-4BFD-9B01-F52126CD6FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC4D4FE-D4E1-4BFD-9B01-F52126CD6FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC4D4FE-D4E1-4BFD-9B01-F52126CD6FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC4D4FE-D4E1-4BFD-9B01-F52126CD6FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC4D4FE-D4E1-4BFD-9B01-F52126CD6FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29CE99E-1E8D-4B13-BDBC-5D31C7669FAE}
+	EndGlobalSection
+EndGlobal
